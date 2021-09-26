@@ -30,4 +30,4 @@ shortTitle: Activate optional features
 {% data reusables.user-settings.access_settings %}
 {% data reusables.user-settings.developer_settings %}
 {% data reusables.user-settings.oauth_apps %}
-{% data reusables.apps.optional_feature_activation %}
+{% data reusables.ap ps.optional_feature_activation %}
